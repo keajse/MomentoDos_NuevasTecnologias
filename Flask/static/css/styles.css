@@ -1,0 +1,47 @@
+#my-text{
+    color:brown
+}
+
+
+body{
+    background: url(../img/viajar.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+
+#registro{
+    margin-top: 100px;
+    margin-left: auto;
+    
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0, 0, 0, 0.952) 35%, rgba(2,0,36,1) 150%);
+    width: 600px;
+}
+
+label{
+    color:white;
+    block-size: auto;
+    margin-left: 50px;
+}
+
+input, select, text, button{
+    margin-left: 50px;
+}
+
+#login{
+    margin-top: 100px;
+    margin-left: auto;
+    
+    background: rgb(2,0,36);
+    background: grey;
+    width: 400px;
+    margin-right: 200px;
+}
+
+#viajar{
+    margin-top: 100px;
+    width: 350px;
+    height: 350px;
+    margin-left: 200px;
+}
